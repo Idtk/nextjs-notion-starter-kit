@@ -1,10 +1,10 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Article-47f5a0357b014ffcabae1fd4f5082668',
+  rootNotionPageId: 'MaZhiChao-ebc6ddc700334edea83f7d79d4b72312',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'bc4a20f7-9b66-4c48-a1eb-2df565698a2a',
 
   // basic site info (required)
   name: 'MaZhiChao的技术博客',
