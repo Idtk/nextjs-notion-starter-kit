@@ -8,13 +8,13 @@ module.exports = {
 
   // basic site info (required)
   name: 'MaZhiChao的技术博客',
-  domain: 'https://shard-liquid-3c1.notion.site/Article-47f5a0357b014ffcabae1fd4f5082668',
+  domain: 'zhichaoma.com',
   author: 'Idtk',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '技术博客',
+  socialImageTitle: 'MaZhiChao的技术博客',
+  socialImageSubtitle: '👋',
 
   // social usernames (optional)
   twitter: '',
