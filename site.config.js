@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'MaZhiChao的技术博客',
-  domain: 'zhichaoma.notion.site',
+  domain: 'www.zhichaoma.com',
   author: 'Idtk',
 
   // open graph metadata (optional)
